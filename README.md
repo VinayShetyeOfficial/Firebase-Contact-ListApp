@@ -2,7 +2,7 @@
                       
 ![screenshot](https://github.com/user-attachments/assets/14441ac2-ee61-4c0b-99af-64a0d757b573)             
   
-## Links 
+## Links  
 - **Live Site URL**: [Preview](https://66a6fef3225082c748ad52a3--steady-panda-4ac415.netlify.app/)
 
 ## Description
