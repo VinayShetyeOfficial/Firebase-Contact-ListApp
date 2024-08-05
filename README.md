@@ -1,5 +1,5 @@
 # Firebase Contact List App 📱    
-                     
+                      
 ![screenshot](https://github.com/user-attachments/assets/14441ac2-ee61-4c0b-99af-64a0d757b573)           
   
 ## Links
