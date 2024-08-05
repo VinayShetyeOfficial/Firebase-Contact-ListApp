@@ -14,7 +14,7 @@ This repository contains a contact management application developed using Fireba
 - **Delete Contacts**: Remove contacts that are no longer needed.
 
  
-
+ 
 > **NOTE**: This application is powered by Firebase’s real-time database!
 
 ## Installation
