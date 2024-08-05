@@ -13,7 +13,7 @@ This repository contains a contact management application developed using Fireba
 - **Edit Contacts**: Update contact details as needed.
 - **Delete Contacts**: Remove contacts that are no longer needed.
 
-
+ 
 
 > **NOTE**: This application is powered by Firebase’s real-time database!
 
