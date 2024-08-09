@@ -6,9 +6,11 @@ const useDisclouse = () => {
   const onOpen = () => {
     setOpen(true);
   };
+  
   const onClose = () => {
     setOpen(false);
   };
+  
   return { onClose, onOpen, isOpen };
 };
 
